@@ -1,0 +1,6 @@
+{
+  "name": "RMU CampusTrade - Maritime University Marketplace",
+  "description": "Secure student peer-to-peer marketplace for Regional Maritime University. Buy and sell textbooks, room appliances, cadet gear, and essentials with verified student profiles and integrated negotiation messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
